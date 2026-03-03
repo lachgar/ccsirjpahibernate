@@ -1,4 +1,4 @@
-# ccsirjpahibernate (Java / JPA / Hibernate)
+# Controle (Java / JPA / Hibernate)
 
 Mini-projet **Java (Maven)** qui illustre :
 - un modèle JPA/Hibernate (Client / Assurance / Contrat),
